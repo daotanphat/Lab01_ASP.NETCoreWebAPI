@@ -1,0 +1,15 @@
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\BusinessObject\bin\Debug\net6.0\BusinessObjects.deps.json
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\BusinessObject\bin\Debug\net6.0\BusinessObjects.runtimeconfig.json
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\BusinessObject\bin\Debug\net6.0\BusinessObjects.dll
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\BusinessObject\bin\Debug\net6.0\BusinessObjects.pdb
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\BusinessObject\obj\Debug\net6.0\BusinessObjects.csproj.AssemblyReference.cache
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\BusinessObject\obj\Debug\net6.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\BusinessObject\obj\Debug\net6.0\BusinessObjects.AssemblyInfoInputs.cache
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\BusinessObject\obj\Debug\net6.0\BusinessObjects.AssemblyInfo.cs
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\BusinessObject\obj\Debug\net6.0\BusinessObjects.csproj.CoreCompileInputs.cache
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\BusinessObject\obj\Debug\net6.0\BusinessObjects.dll
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\BusinessObject\obj\Debug\net6.0\refint\BusinessObjects.dll
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\BusinessObject\obj\Debug\net6.0\BusinessObjects.pdb
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\BusinessObject\obj\Debug\net6.0\BusinessObjects.genruntimeconfig.cache
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\BusinessObject\obj\Debug\net6.0\ref\BusinessObjects.dll
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\BusinessObject\bin\Debug\net6.0\appsettings.json

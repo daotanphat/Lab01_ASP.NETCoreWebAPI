@@ -1,0 +1,16 @@
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net6.0\appsettings.json
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net6.0\DataAccess.dll
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net6.0\BusinessObjects.dll
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net6.0\BusinessObjects.pdb
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.Up2Date
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.dll
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

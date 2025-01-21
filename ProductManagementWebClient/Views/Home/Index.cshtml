@@ -1,0 +1,45 @@
+﻿@model IEnumerable<BusinessObject.Product>
+@{
+	ViewData["Title"] = "Home Page";
+}
+
+<h1>Index</h1>
+
+<p>
+	<a asp-action="Create">Create new</a>
+</p>
+<table class="table">
+	<thead>
+		<tr>
+			<th>
+				@Html.DisplayFor(model => model.ProductId)
+			</th>
+			<th>
+				@Html.DisplayFor(model => model.ProductName)
+			</th>
+			<th>
+				@Html.DisplayFor(model => model.UnitPrice)
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>
+					@Html.DisplayFor(modelItem => item.ProductId)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.ProductName)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.UnitPrice)
+				</td>
+				<td>
+					@Html.ActionLink("Details", "Details", new {/* id = item.PrimaryKey*/})
+					@Html.ActionLink("Delete", "Delete", new {/* id = item.PrimaryKey*/})
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
