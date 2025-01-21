@@ -14,3 +14,4 @@ F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\DataAccess\obj
 F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
 F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.pdb
 F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.sourcelink.json

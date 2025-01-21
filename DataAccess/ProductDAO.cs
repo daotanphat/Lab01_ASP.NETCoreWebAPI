@@ -17,7 +17,9 @@ namespace DataAccess
 			{
 				using (var context = new MyDbContext())
 				{
-					products = context.Products.ToList();
+					products = context.Products
+						.Include(p => p.Category)
+						.ToList();
 				}
 			}
 			catch (Exception ex)
@@ -34,7 +36,9 @@ namespace DataAccess
 			{
 				using (var context = new MyDbContext())
 				{
-					product = context.Products.SingleOrDefault(p => p.ProductId == productId);
+					product = context.Products
+						.Include(p => p.Category)
+						.SingleOrDefault(p => p.ProductId == productId);
 				}
 			}
 			catch (Exception ex)

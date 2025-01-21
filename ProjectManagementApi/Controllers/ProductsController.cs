@@ -1,4 +1,6 @@
-﻿using BusinessObjects;
+﻿using AutoMapper;
+using BusinessObjects;
+using BusinessObjects.Dtos;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Repositories;
@@ -10,14 +12,25 @@ namespace ProjectManagementAPI.Controllers
 	public class ProductsController : ControllerBase
 	{
 		private readonly IProductRepository repository = new ProductRepository();
+		private readonly IMapper _mapper;
+
+		public ProductsController(IMapper mapper)
+		{
+			_mapper = mapper;
+		}
 
 		[HttpGet]
-		public ActionResult<IEnumerable<Product>> GetProducts() => repository.GetProducts();
-
-		[HttpPost]
-		public IActionResult PostProduct(Product p)
+		public IActionResult GetProducts()
 		{
-			repository.SaveProduct(p);
+			var products = repository.GetProducts();
+			var productResponse = _mapper.Map<List<ProductResponseDto>>(products);
+			return Ok(productResponse);
+		}
+		[HttpPost]
+		public IActionResult PostProduct([FromBody] CreateProductDto productDto)
+		{
+			var product = _mapper.Map<Product>(productDto);
+			repository.SaveProduct(product);
 			return NoContent();
 		}
 
@@ -31,11 +44,12 @@ namespace ProjectManagementAPI.Controllers
 		}
 
 		[HttpPut("id")]
-		public IActionResult UpdateProduct(int id, Product p)
+		public IActionResult UpdateProduct([FromRoute] int id, [FromBody] UpdateProductDto productDto)
 		{
 			var product = repository.GetProductById(id);
 			if (product == null) return NotFound();
-			repository.UpdateProduct(product);
+			var productUpdate = _mapper.Map<Product>(productDto);
+			repository.UpdateProduct(productUpdate);
 			return NoContent();
 		}
 	}

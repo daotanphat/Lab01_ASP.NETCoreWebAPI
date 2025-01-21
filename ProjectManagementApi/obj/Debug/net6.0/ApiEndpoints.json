@@ -7,17 +7,7 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BusinessObjects.Product, BusinessObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "ProjectManagementAPI.Controllers.ProductsController",
@@ -28,8 +18,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "p",
-        "Type": "BusinessObjects.Product",
+        "Name": "productDto",
+        "Type": "BusinessObjects.Dtos.CreateProductDto",
         "IsRequired": true
       }
     ],
@@ -65,8 +55,8 @@
         "IsRequired": false
       },
       {
-        "Name": "p",
-        "Type": "BusinessObjects.Product",
+        "Name": "productDto",
+        "Type": "BusinessObjects.Dtos.UpdateProductDto",
         "IsRequired": true
       }
     ],

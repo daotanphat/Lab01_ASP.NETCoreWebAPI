@@ -13,3 +13,4 @@ F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\BusinessObject
 F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\BusinessObject\obj\Debug\net6.0\BusinessObjects.genruntimeconfig.cache
 F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\BusinessObject\obj\Debug\net6.0\ref\BusinessObjects.dll
 F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\BusinessObject\bin\Debug\net6.0\appsettings.json
+F:\FPT University\Semester 8\PRN231\Class\Lab01_ASP.NETCoreWebAPI\BusinessObject\obj\Debug\net6.0\BusinessObjects.sourcelink.json

@@ -14,7 +14,7 @@ namespace ProductManagementWebClient.Controllers
 			client = new HttpClient();
 			var contentType = new MediaTypeWithQualityHeaderValue("application/json");
 			client.DefaultRequestHeaders.Accept.Add(contentType);
-			ProductApiUrl = "http://localhost:7071/api/products";
+			ProductApiUrl = "https://localhost:7071/api/products";
 		}
 		public async Task<IActionResult> Index()
 		{
