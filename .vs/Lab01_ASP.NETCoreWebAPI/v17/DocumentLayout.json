@@ -5,14 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A34B3F65-FFCD-4BBD-BF9C-EEB6576E58A6}|ProjectManagementApi\\ProjectManagementAPI.csproj|f:\\fpt university\\semester 8\\prn231\\class\\lab01_asp.netcorewebapi\\projectmanagementapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A34B3F65-FFCD-4BBD-BF9C-EEB6576E58A6}|ProjectManagementApi\\ProjectManagementAPI.csproj|solutionrelative:projectmanagementapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A11F1895-F7FB-4232-A910-BFB2D33CCB7A}|ProductManagementWebClient\\ProductManagementWebClient.csproj|f:\\fpt university\\semester 8\\prn231\\class\\lab01_asp.netcorewebapi\\productmanagementwebclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A11F1895-F7FB-4232-A910-BFB2D33CCB7A}|ProductManagementWebClient\\ProductManagementWebClient.csproj|solutionrelative:productmanagementwebclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A11F1895-F7FB-4232-A910-BFB2D33CCB7A}|ProductManagementWebClient\\ProductManagementWebClient.csproj|f:\\fpt university\\semester 8\\prn231\\class\\lab01_asp.netcorewebapi\\productmanagementwebclient\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A11F1895-F7FB-4232-A910-BFB2D33CCB7A}|ProductManagementWebClient\\ProductManagementWebClient.csproj|solutionrelative:productmanagementwebclient\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 125,
+          "SelectedChildIndex": 124,
           "Children": [
             {
               "$type": "Bookmark",
@@ -522,40 +514,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\FPT University\\Semester 8\\PRN231\\Class\\Lab01_ASP.NETCoreWebAPI\\ProductManagementWebClient\\Program.cs",
-              "RelativeDocumentMoniker": "ProductManagementWebClient\\Program.cs",
-              "ToolTip": "F:\\FPT University\\Semester 8\\PRN231\\Class\\Lab01_ASP.NETCoreWebAPI\\ProductManagementWebClient\\Program.cs",
-              "RelativeToolTip": "ProductManagementWebClient\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T18:51:15.038Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "F:\\FPT University\\Semester 8\\PRN231\\Class\\Lab01_ASP.NETCoreWebAPI\\ProjectManagementApi\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "ProjectManagementApi\\Controllers\\ProductsController.cs",
               "ToolTip": "F:\\FPT University\\Semester 8\\PRN231\\Class\\Lab01_ASP.NETCoreWebAPI\\ProjectManagementApi\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "ProjectManagementApi\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T18:43:48.98Z",
+              "WhenOpened": "2025-02-10T09:25:29.699Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "F:\\FPT University\\Semester 8\\PRN231\\Class\\Lab01_ASP.NETCoreWebAPI\\ProductManagementWebClient\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "ProductManagementWebClient\\Controllers\\ProductController.cs",
-              "ToolTip": "F:\\FPT University\\Semester 8\\PRN231\\Class\\Lab01_ASP.NETCoreWebAPI\\ProductManagementWebClient\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "ProductManagementWebClient\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T18:26:41.402Z"
             }
           ]
         },

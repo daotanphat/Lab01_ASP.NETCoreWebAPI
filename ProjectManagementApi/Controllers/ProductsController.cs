@@ -44,11 +44,12 @@ namespace ProjectManagementAPI.Controllers
 		}
 
 		[HttpPut("id")]
-		public IActionResult UpdateProduct([FromRoute] int id, [FromBody] UpdateProductDto productDto)
+		public IActionResult UpdateProduct(int id, [FromBody] UpdateProductDto productDto)
 		{
 			var product = repository.GetProductById(id);
 			if (product == null) return NotFound();
 			var productUpdate = _mapper.Map<Product>(productDto);
+			productUpdate.ProductId = id;
 			repository.UpdateProduct(productUpdate);
 			return NoContent();
 		}

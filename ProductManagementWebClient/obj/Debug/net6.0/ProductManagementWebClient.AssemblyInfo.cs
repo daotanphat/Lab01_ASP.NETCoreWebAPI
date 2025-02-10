@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProductManagementWebClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b5e7964857c82c0d739b296918ab43067cb9fcd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5d971b72cac4a0819efc85b7cccbed2a6aeee1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProductManagementWebClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProductManagementWebClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

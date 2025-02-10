@@ -9,6 +9,7 @@ namespace ProjectManagementAPI.Mapper
 		public ProductMapper()
 		{
 			CreateMap<CreateProductDto, Product>().ReverseMap();
+			CreateMap<Product, CreateProductResponseDto>().ReverseMap();
 			CreateMap<UpdateProductDto, Product>().ReverseMap();
 			CreateMap<Product, ProductResponseDto>().ForMember(
 				dest => dest.CategoryName, opt => opt.MapFrom(src => src.Category.CategoryName)).ReverseMap();
